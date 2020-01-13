@@ -7,7 +7,7 @@ public class matrixSolver {
         System.out.println(m);
         m.replace(3,1,-2);
         System.out.println(m);
-        m.replace(3,1,-2);
+        m.replace(3,2,2);
         System.out.println(m);
 
     }
